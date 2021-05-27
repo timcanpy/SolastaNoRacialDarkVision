@@ -1,4 +1,4 @@
-# SolastaNoRacialDarkVision
+# Solasta Mod - No Racial Dark Vision
 
 This Mod removes Dark Vision as a racial feature from all player races. Note that this is not retroactive for existing characters.
 
