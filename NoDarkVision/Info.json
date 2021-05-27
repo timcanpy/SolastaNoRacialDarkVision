@@ -8,6 +8,6 @@
 	"EntryMethod": "NoDarkVision.Main.Load",
 	"Requirements": [ "SolastaModApi" ],
 	"LoadAfter": [ "SolastaModApi" ],
-	"Repository": "https://raw.githubusercontent.com/SolastaMods/SolastaModTemplate/main/SolastaModTemplate/Repository.json",
-	"HomePage": "https://www.nexusmods.com/solastacrownofthemagister/mods/##"
+	"Repository": "https://github.com/timcanpy/SolastaNoRacialDarkVision/blob/master/NoDarkVision/Repository.json",
+	"HomePage": "https://www.nexusmods.com/solastacrownofthemagister/mods/76"
 }
