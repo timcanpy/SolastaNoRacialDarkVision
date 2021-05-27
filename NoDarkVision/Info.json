@@ -1,0 +1,13 @@
+﻿{
+	"Id": "NoDarkVision",
+	"DisplayName": "NoDarkVision",
+	"Author": "ViewThePhenom",
+	"Version": "1.0.0",
+	"ManagerVersion": "0.22.13",
+	"AssemblyName": "NoDarkVision.dll",
+	"EntryMethod": "NoDarkVision.Main.Load",
+	"Requirements": [ "SolastaModApi" ],
+	"LoadAfter": [ "SolastaModApi" ],
+	"Repository": "https://raw.githubusercontent.com/SolastaMods/SolastaModTemplate/main/SolastaModTemplate/Repository.json",
+	"HomePage": "https://www.nexusmods.com/solastacrownofthemagister/mods/##"
+}

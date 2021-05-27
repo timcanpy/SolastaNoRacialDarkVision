@@ -1,0 +1,9 @@
+{
+  "SolastaModTemplate/&SomeTerm": {
+    "English": "Mickey-Mouse was here"
+  },
+  "SolastaModTemplate/&OtherTerm": {
+    "English": "The book is on the table",
+    "Portuguese": "O livro esta sobre a mesa"
+  }
+}
