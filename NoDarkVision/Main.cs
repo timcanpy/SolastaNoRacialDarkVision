@@ -40,8 +40,11 @@ namespace NoDarkVision
             return true;
         }
 
-        [HarmonyPatch(typeof(MainMenuScreen), "RuntimeLoaded")]
-        static class MainMenuScreen_RuntimeLoaded_Patch
+        //[HarmonyPatch(typeof(MainMenuScreen), "RuntimeLoaded")]
+        //static class MainMenuScreen_RuntimeLoaded_Patch
+
+        [HarmonyPatch(typeof(GameManager), "BindPostDatabase")]
+        internal static class GameManager_BindPostDatabase_Patch
         {
             static void Postfix()
             {
